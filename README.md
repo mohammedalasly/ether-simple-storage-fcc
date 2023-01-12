@@ -29,7 +29,7 @@
 -   Ganache
 -   MetaMask
 -   Ethers-js
--   dotenv
+-   Alchemy
 
 **Testnet:** Goerli
 
