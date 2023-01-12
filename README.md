@@ -1,4 +1,4 @@
-# Ethers Simple Storage FCC / Ptrick
+# Ethers Simple Storage FCC / Patrick
 
 ## What we have learned:
 
